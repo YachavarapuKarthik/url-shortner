@@ -17,4 +17,4 @@ COPY backend .
 EXPOSE 5000
 
 # Step 7: Define the command to run the application (start server.js)
-CMD ["node", "server.js"
+CMD ["node", "server.js"]
